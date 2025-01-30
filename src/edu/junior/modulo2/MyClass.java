@@ -1,3 +1,5 @@
+package edu.junior.modulo2;
+
 public class MyClass {
     public static void main(String[] args) {
         String firstName = "Junior";
